@@ -1,0 +1,3 @@
+name        : lindbg
+description : windows remote debugging (serial) client for linux and virtual machines
+reason      : lack of a client
